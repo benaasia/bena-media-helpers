@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin-update-checker\n"
+"POT-Creation-Date: 2022-07-29 15:34+0300\n"
+"PO-Revision-Date: 2022-08-12 14:05+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Puc/v4p13/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "Kiểm tra cập nhật"
+
+#: Puc/v4p13/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Plugin %s đã được cập nhật."
+
+#: Puc/v4p13/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Đã có phiên bản mới của plugin %s."
+
+#: Puc/v4p13/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Không thể xác định xem các bản cập nhật có sẵn cho %s hay không."
+
+#: Puc/v4p13/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Trạng thái trình kiểm tra cập nhật không xác định \"%s\""
+
+#: Puc/v4p13/Vcs/PluginUpdateChecker.php:100
+msgid "There is no changelog available."
+msgstr "Không có bảng thay đổi có sẵn."

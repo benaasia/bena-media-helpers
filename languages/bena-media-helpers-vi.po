@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bena Media Helpers 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-08 00:00+0000\n"
+"PO-Revision-Date: 2025-11-08 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Post Image Settings"
+msgstr "Cài đặt hình ảnh bài viết"
+
+msgid "Automatically save external images to the media library"
+msgstr "Tự động lưu ảnh ngoài vào thư viện"
+
+msgid "Add a filename prefix"
+msgstr "Thêm tiền tố vào tên ảnh"
+
+msgid "Delete attachments when a post is deleted"
+msgstr "Xóa ảnh đính kèm khi xóa bài"
+
+msgid "Convert JPG/PNG uploads to WebP"
+msgstr "Chuyển JPG/PNG sang WebP khi tải lên"
+
+msgid "Watermark"
+msgstr "Watermark"
+
+msgid "Choose a watermark position"
+msgstr "Chọn vị trí Watermark"
+
+msgid "Disable watermark"
+msgstr "Tắt watermark"
+
+msgid "Watermark with a PNG image"
+msgstr "Watermark bằng ảnh PNG"
+
+msgid "Watermark with text"
+msgstr "Watermark bằng chữ"
+
+msgid "Enable"
+msgstr "Kích hoạt"
+
+msgid "Watermark position"
+msgstr "Vị trí watermark"
+
+msgid "WebP compression (%)"
+msgstr "Nén WebP (%)"
+
+msgid "Prefix"
+msgstr "Tiền tố"
+
+msgid "Example: bena"
+msgstr "Ví dụ: bena"
+
+msgid "Select a transparent PNG image to overlay."
+msgstr "Chọn ảnh PNG nền trong suốt để chèn vào hình."
+
+msgid "Content"
+msgstr "Nội dung"
+
+msgid "Example: © bena.vn"
+msgstr "Ví dụ: © bena.vn"
+
+msgid "Text color"
+msgstr "Màu chữ"
+
+msgid "Size (pt)"
+msgstr "Kích thước (pt)"
+
+msgid "Customize watermark"
+msgstr "Tùy chỉnh watermark"
+
+msgid "Watermark scale (%)"
+msgstr "Tỉ lệ watermark (%)"
+
+msgid "Opacity (%)"
+msgstr "Độ trong suốt (%)"
+
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+msgid "Top - Left"
+msgstr "Trên - Trái"
+
+msgid "Top - Center"
+msgstr "Trên - Giữa"
+
+msgid "Top - Right"
+msgstr "Trên - Phải"
+
+msgid "Center - Left"
+msgstr "Giữa - Trái"
+
+msgid "Center"
+msgstr "Trung tâm"
+
+msgid "Center - Right"
+msgstr "Giữa - Phải"
+
+msgid "Bottom - Left"
+msgstr "Dưới - Trái"
+
+msgid "Bottom - Center"
+msgstr "Dưới - Giữa"
+
+msgid "Bottom - Right"
+msgstr "Dưới - Phải"
+
+msgid "No watermark selected"
+msgstr "Chưa chọn watermark"
+
+msgid "Choose watermark"
+msgstr "Chọn watermark"
+
+msgid "Remove watermark"
+msgstr "Xóa watermark"
+
+msgid "Use this watermark"
+msgstr "Sử dụng watermark này"
+
+msgid "Select watermark image"
+msgstr "Chọn ảnh watermark"
+
+msgid "Other products"
+msgstr "Sản phẩm khác"
+
+msgid "Our other products and services"
+msgstr "Các sản phẩm, dịch vụ khác của chúng tôi"
+
+msgid "Link shortener and cloaking"
+msgstr "Rút gọn link, bọc link"
+
+msgid "Website design"
+msgstr "Thiết kế Website"
+
+msgid "Social media services"
+msgstr "Dịch vụ MXH"
+
+msgid "Popup Affiliate plugin"
+msgstr "Plugin Popup Affiliate"
+
+msgid "Facebook browser blocker plugin"
+msgstr "Plugin chặn trình duyệt Facebook"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Need help? Contact us"
+msgstr "Cần trợ giúp? Liên hệ với chúng tôi"
+
+msgid "Official website"
+msgstr "Website chính thức"
+
+msgid "Support email"
+msgstr "Email hỗ trợ"
+
+msgid "Version information"
+msgstr "Thông tin phiên bản"
+
+msgid "Review your plugin details"
+msgstr "Kiểm tra thông tin plugin của bạn"
+
+msgid "Current version"
+msgstr "Phiên bản hiện tại"
+
+msgid "Requires WordPress"
+msgstr "Yêu cầu WordPress"
+
+msgid "Rating"
+msgstr "Đánh giá"
+
+msgid "Rate on GitHub"
+msgstr "Đánh giá trên GitHub"
+
+msgid "Change log"
+msgstr "Lịch sử thay đổi"
+
+msgid "Track the latest updates"
+msgstr "Theo dõi các cập nhật mới nhất"
+
+msgid "Release notes"
+msgstr "Lịch sử phiên bản"
+
+msgid "Manage watermarks and automate image processing effortlessly."
+msgstr "Quản lý watermark và tự động hóa xử lý ảnh dễ dàng."
