@@ -24,7 +24,7 @@ Bena Media Helpers streamlines common media workflows on WordPress websites. The
 
 ### Support & Contact
 - Website: [https://bena.asia](https://bena.asia)
-- Facebook: [https://www.facebook.com/profile.php?id=100091495455637](BenaAsia)
+- Facebook: [https://www.facebook.com/profile.php?id=100091495455637](https://www.facebook.com/profile.php?id=100091495455637)
 - Email: [info@bena.asia](mailto:info@bena.asia)
 - GitHub issues: [https://github.com/benaasia/bena-media-helpers/issues](https://github.com/benaasia/bena-media-helpers/issues)
 
@@ -52,6 +52,6 @@ Bena Media Helpers giúp tối ưu quy trình xử lý hình ảnh trên website
 
 ### Hỗ trợ & Liên hệ
 - Website: [https://bena.asia](https://bena.asia)
-- Facebook: [https://www.facebook.com/profile.php?id=100091495455637](BenaAsia)
+- Facebook: [https://www.facebook.com/profile.php?id=100091495455637](https://www.facebook.com/profile.php?id=100091495455637)
 - Email: [info@bena.asia](mailto:info@bena.asia)
 - GitHub issues: [https://github.com/benaasia/bena-media-helpers/issues](https://github.com/benaasia/bena-media-helpers/issues)
