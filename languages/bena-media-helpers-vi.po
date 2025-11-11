@@ -1,0 +1,345 @@
+# Vietnamese translation for Bena Media Helpers
+# Copyright (C) 2024 Bena
+# This file is distributed under the same license as the Bena Media Helpers package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bena Media Helpers\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-15 08:30+0000\n"
+"PO-Revision-Date: 2025-11-11 15:57+0000\n"
+"Last-Translator: Bena <info@bena.asia>\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Country: VN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bena-media-helpers.php:1151 bena-media-helpers/bena-media-helpers.php:1151
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: bena-media-helpers.php:1155 bena-media-helpers/bena-media-helpers.php:1155
+msgid "5.0+"
+msgstr "5.0+"
+
+#: bena-media-helpers.php:1249
+msgid "Account Name:"
+msgstr "Tên tài khoản:"
+
+#: bena-media-helpers.php:1245
+msgid "Account No:"
+msgstr "Số tài khoản:"
+
+#: bena-media-helpers.php:56 bena-media-helpers/bena-media-helpers.php:56
+msgid "Add a filename prefix"
+msgstr "Thêm tiền tố vào tên ảnh"
+
+#: bena-media-helpers.php:54 bena-media-helpers/bena-media-helpers.php:54
+msgid "Automatically save external images to the media library"
+msgstr "Tự động lưu ảnh ngoài vào thư viện"
+
+#. Author of the plugin
+msgid "Bena"
+msgstr ""
+
+#: bena-media-helpers.php:91 bena-media-helpers/bena-media-helpers.php:91
+msgid "Bena Media Feature Grid"
+msgstr "Lưới tính năng Bena Media"
+
+#. Name of the plugin
+#: bena-media-helpers.php:874 bena-media-helpers.php:875
+#: bena-media-helpers.php:1209 bena-media-helpers/bena-media-helpers.php:874
+#: bena-media-helpers/bena-media-helpers.php:875
+#: bena-media-helpers/bena-media-helpers.php:1209
+msgid "Bena Media Helpers"
+msgstr "Bena Media Helpers"
+
+#: bena-media-helpers.php:1053 bena-media-helpers/bena-media-helpers.php:1053
+msgid "Bottom - Center"
+msgstr "Dưới - Giữa"
+
+#: bena-media-helpers.php:1052 bena-media-helpers/bena-media-helpers.php:1052
+msgid "Bottom - Left"
+msgstr "Dưới - Trái"
+
+#: bena-media-helpers.php:1054 bena-media-helpers/bena-media-helpers.php:1054
+msgid "Bottom - Right"
+msgstr "Dưới - Phải"
+
+#: bena-media-helpers.php:1050 bena-media-helpers/bena-media-helpers.php:1050
+msgid "Center"
+msgstr "Giữa"
+
+#: bena-media-helpers.php:1049 bena-media-helpers/bena-media-helpers.php:1049
+msgid "Center - Left"
+msgstr "Giữa - Trái"
+
+#: bena-media-helpers.php:1051 bena-media-helpers/bena-media-helpers.php:1051
+msgid "Center - Right"
+msgstr "Giữa - Phải"
+
+#: bena-media-helpers.php:1180 bena-media-helpers/bena-media-helpers.php:1180
+msgid "Change log"
+msgstr "Nhật ký thay đổi"
+
+#: bena-media-helpers.php:68 bena-media-helpers/bena-media-helpers.php:68
+msgid "Choose a watermark position"
+msgstr "Chọn vị trí đóng dấu"
+
+#: bena-media-helpers.php:1093 bena-media-helpers/bena-media-helpers.php:1093
+msgid "Choose watermark"
+msgstr "Chọn hình đóng dấu"
+
+#: bena-media-helpers.php:239 bena-media-helpers/bena-media-helpers.php:239
+msgid "Content"
+msgstr "Nội dung"
+
+#: bena-media-helpers.php:61 bena-media-helpers/bena-media-helpers.php:61
+msgid "Convert JPG/PNG uploads to WebP"
+msgstr "Chuyển JPG/PNG sang WebP khi tải lên"
+
+#: bena-media-helpers.php:1542
+msgid "Copied!"
+msgstr "Đã sao chép!"
+
+#: bena-media-helpers.php:1150 bena-media-helpers/bena-media-helpers.php:1150
+msgid "Current version"
+msgstr "Phiên bản hiện tại"
+
+#: bena-media-helpers.php:283 bena-media-helpers/bena-media-helpers.php:283
+msgid "Customize watermark"
+msgstr "Tùy chỉnh đóng dấu bản quyền"
+
+#: bena-media-helpers.php:59 bena-media-helpers/bena-media-helpers.php:59
+msgid "Delete attachments when a post is deleted"
+msgstr "Xóa ảnh đính kèm khi xóa bài"
+
+#: bena-media-helpers.php:1254
+msgid "Description:"
+msgstr "Nội dung chuyển khoản:"
+
+#: bena-media-helpers.php:72 bena-media-helpers/bena-media-helpers.php:72
+msgid "Disable watermark"
+msgstr "Tắt đóng dấu bản quyền"
+
+#: bena-media-helpers.php:1266
+msgid "Donate with PayPal"
+msgstr "Ủng hộ qua PayPal"
+
+#: bena-media-helpers.php:116 bena-media-helpers/bena-media-helpers.php:116
+msgid "Enable"
+msgstr "Bật"
+
+#: bena-media-helpers.php:213 bena-media-helpers/bena-media-helpers.php:213
+msgid "Example: bena"
+msgstr "Ví dụ: bena"
+
+#: bena-media-helpers.php:241 bena-media-helpers/bena-media-helpers.php:241
+msgid "Example: © bena.vn"
+msgstr "Ví dụ: © bena.vn"
+
+#: bena-media-helpers.php:1135 bena-media-helpers/bena-media-helpers.php:1135
+msgid "Facebook"
+msgstr "Facebook"
+
+#: bena-media-helpers.php:1121 bena-media-helpers/bena-media-helpers.php:1121
+msgid "Facebook browser blocker plugin"
+msgstr "Plugin chặn trình duyệt Facebook"
+
+#: bena-media-helpers.php:1187 bena-media-helpers/bena-media-helpers.php:1187
+msgid "GitHub"
+msgstr "GitHub"
+
+#: bena-media-helpers.php:1239
+msgid ""
+"If this website is helpful, please consider donating to help me maintain and "
+"develop the project."
+msgstr ""
+"Nếu plugin này hữu ích, hãy ủng hộ để tôi tiếp tục duy trì và phát triển dự "
+"án."
+
+#: bena-media-helpers.php:1117 bena-media-helpers/bena-media-helpers.php:1117
+msgid "Link shortener and cloaking"
+msgstr "Rút gọn và che giấu liên kết"
+
+#: bena-media-helpers.php:1210 bena-media-helpers/bena-media-helpers.php:1210
+msgid "Manage watermarks and automate image processing effortlessly."
+msgstr ""
+"Quản lý đóng dấu bản quyền và tự động hóa xử lý hình ảnh một cách dễ dàng."
+
+#. Description of the plugin
+msgid ""
+"Media utilities for WordPress: save external images, delete attachments with "
+"posts, and convert JPG/PNG uploads to WebP with per-feature toggles."
+msgstr ""
+"Các tiện ích media cho WordPress: lưu hình ảnh bên ngoài, xóa tệp đính kèm "
+"cùng bài viết và chuyển đổi ảnh JPG/PNG tải lên thành WebP với các tùy chọn "
+"bật/tắt tính năng."
+
+#: bena-media-helpers.php:1130 bena-media-helpers/bena-media-helpers.php:1130
+msgid "Need help? Contact us"
+msgstr "Cần giúp đỡ? Liên hệ với chúng tôi"
+
+#: bena-media-helpers.php:1088 bena-media-helpers.php:1516
+#: bena-media-helpers/bena-media-helpers.php:1088
+#: bena-media-helpers/bena-media-helpers.php:1254
+msgid "No watermark selected"
+msgstr "Chưa chọn hình đóng dấu"
+
+#: bena-media-helpers.php:1134 bena-media-helpers/bena-media-helpers.php:1134
+msgid "Official website"
+msgstr "Website chính thức"
+
+#: bena-media-helpers.php:294 bena-media-helpers/bena-media-helpers.php:294
+msgid "Opacity (%)"
+msgstr "Độ mờ (%)"
+
+#: bena-media-helpers.php:1112 bena-media-helpers/bena-media-helpers.php:1112
+msgid "Other products"
+msgstr "Sản phẩm khác"
+
+#: bena-media-helpers.php:1113 bena-media-helpers/bena-media-helpers.php:1113
+msgid "Our other products and services"
+msgstr "Các sản phẩm và dịch vụ khác của chúng tôi"
+
+#: bena-media-helpers.php:1120 bena-media-helpers/bena-media-helpers.php:1120
+msgid "Popup Affiliate plugin"
+msgstr "Plugin Popup Affiliate"
+
+#: bena-media-helpers.php:52 bena-media-helpers/bena-media-helpers.php:52
+msgid "Post Image Settings"
+msgstr "Cài đặt hình ảnh bài viết"
+
+#: bena-media-helpers.php:212 bena-media-helpers/bena-media-helpers.php:212
+msgid "Prefix"
+msgstr "Tiền tố"
+
+#: bena-media-helpers.php:1171 bena-media-helpers/bena-media-helpers.php:1171
+msgid "Rate on GitHub"
+msgstr "Đánh giá trên GitHub"
+
+#: bena-media-helpers.php:1159 bena-media-helpers/bena-media-helpers.php:1159
+msgid "Rating"
+msgstr "Đánh giá"
+
+#: bena-media-helpers.php:1191 bena-media-helpers/bena-media-helpers.php:1191
+msgid "Release notes"
+msgstr "Ghi chú phát hành"
+
+#: bena-media-helpers.php:1095 bena-media-helpers/bena-media-helpers.php:1095
+msgid "Remove watermark"
+msgstr "Xóa hình đóng dấu"
+
+#: bena-media-helpers.php:1154 bena-media-helpers/bena-media-helpers.php:1154
+msgid "Requires WordPress"
+msgstr "Yêu cầu WordPress"
+
+#: bena-media-helpers.php:1145 bena-media-helpers/bena-media-helpers.php:1145
+msgid "Review your plugin details"
+msgstr "Xem chi tiết plugin của bạn"
+
+#: bena-media-helpers.php:303 bena-media-helpers/bena-media-helpers.php:303
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#: bena-media-helpers.php:222 bena-media-helpers/bena-media-helpers.php:222
+msgid "Select a transparent PNG image to overlay."
+msgstr "Chọn ảnh PNG nền trong suốt để chèn vào hình."
+
+#: bena-media-helpers.php:1518 bena-media-helpers/bena-media-helpers.php:1256
+msgid "Select watermark image"
+msgstr "Chọn hình ảnh đóng dấu"
+
+#: bena-media-helpers.php:253 bena-media-helpers/bena-media-helpers.php:253
+msgid "Size (pt)"
+msgstr "Kích thước (pt)"
+
+#: bena-media-helpers.php:1119 bena-media-helpers/bena-media-helpers.php:1119
+msgid "Social media services"
+msgstr "Dịch vụ mạng xã hội"
+
+#: bena-media-helpers.php:1129 bena-media-helpers/bena-media-helpers.php:1129
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: bena-media-helpers.php:1136 bena-media-helpers/bena-media-helpers.php:1136
+msgid "Support email"
+msgstr "Email hỗ trợ"
+
+#: bena-media-helpers.php:1242
+msgid "Techcombank Bank"
+msgstr "Ngân hàng Techcombank"
+
+#: bena-media-helpers.php:246 bena-media-helpers/bena-media-helpers.php:246
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: bena-media-helpers.php:1238
+msgid "Thank you for your Donate!"
+msgstr "Cảm ơn bạn đã ủng hộ!"
+
+#: bena-media-helpers.php:1047 bena-media-helpers/bena-media-helpers.php:1047
+msgid "Top - Center"
+msgstr "Trên - Giữa"
+
+#: bena-media-helpers.php:1046 bena-media-helpers/bena-media-helpers.php:1046
+msgid "Top - Left"
+msgstr "Trên - Trái"
+
+#: bena-media-helpers.php:1048 bena-media-helpers/bena-media-helpers.php:1048
+msgid "Top - Right"
+msgstr "Trên - Phải"
+
+#: bena-media-helpers.php:1181 bena-media-helpers/bena-media-helpers.php:1181
+msgid "Track the latest updates"
+msgstr "Theo dõi các bản cập nhật mới nhất"
+
+#: bena-media-helpers.php:1517 bena-media-helpers/bena-media-helpers.php:1255
+msgid "Use this watermark"
+msgstr "Sử dụng hình đóng dấu này"
+
+#: bena-media-helpers.php:1212 bena-media-helpers/bena-media-helpers.php:1212
+#, php-format
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+#: bena-media-helpers.php:1144 bena-media-helpers/bena-media-helpers.php:1144
+msgid "Version information"
+msgstr "Thông tin phiên bản"
+
+#: bena-media-helpers.php:67 bena-media-helpers/bena-media-helpers.php:67
+msgid "Watermark"
+msgstr "Đóng dấu bản quyền"
+
+#: bena-media-helpers.php:144 bena-media-helpers/bena-media-helpers.php:144
+msgid "Watermark position"
+msgstr "Vị trí đóng dấu"
+
+#: bena-media-helpers.php:286 bena-media-helpers/bena-media-helpers.php:286
+msgid "Watermark scale (%)"
+msgstr "Tỷ lệ đóng dấu (%)"
+
+#: bena-media-helpers.php:76 bena-media-helpers/bena-media-helpers.php:76
+msgid "Watermark with a PNG image"
+msgstr "Đóng dấu bằng ảnh PNG"
+
+#: bena-media-helpers.php:81 bena-media-helpers/bena-media-helpers.php:81
+msgid "Watermark with text"
+msgstr "Đóng dấu bằng chữ"
+
+#: bena-media-helpers.php:205 bena-media-helpers/bena-media-helpers.php:205
+msgid "WebP compression (%)"
+msgstr "Chất lượng nén WebP (%)"
+
+#: bena-media-helpers.php:1118 bena-media-helpers/bena-media-helpers.php:1118
+msgid "Website design"
+msgstr "Thiết kế website"

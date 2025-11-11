@@ -1,0 +1,248 @@
+# Vietnamese translation for Bena Media Helpers
+# Copyright (C) 2024 Bena
+# This file is distributed under the same license as the Bena Media Helpers package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Bena Media Helpers\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-15 08:30+0000\n"
+"PO-Revision-Date: 2024-08-15 08:30+0000\n"
+"Last-Translator: FIRST AUTHOR <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Country: VI\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Media utilities for WordPress: save external images, delete attachments with posts, and convert JPG/PNG uploads to WebP with per-feature toggles."
+msgstr "Các tiện ích media cho WordPress: lưu hình ảnh bên ngoài, xóa tệp đính kèm cùng bài viết và chuyển đổi ảnh JPG/PNG tải lên thành WebP với các tùy chọn bật/tắt tính năng."
+
+msgid "Post Image Settings"
+msgstr "Cài đặt hình ảnh bài viết"
+
+msgid "Automatically save external images to the media library"
+msgstr "Tự động lưu hình ảnh bên ngoài vào thư viện media"
+
+msgid "Add a filename prefix"
+msgstr "Thêm tiền tố vào tên file"
+
+msgid "Add a filename prefix"
+msgstr "Thêm tiền tố vào tên file"
+
+msgid "Delete attachments when a post is deleted"
+msgstr "Xóa tệp đính kèm khi bài viết bị xóa"
+
+msgid "Convert JPG/PNG uploads to WebP"
+msgstr "Chuyển đổi ảnh JPG/PNG tải lên thành WebP"
+
+msgid "Watermark"
+msgstr "Đóng dấu bản quyền"
+
+msgid "Choose a watermark position"
+msgstr "Chọn vị trí đóng dấu"
+
+msgid "Disable watermark"
+msgstr "Tắt đóng dấu bản quyền"
+
+msgid "Watermark with a PNG image"
+msgstr "Đóng dấu bằng hình ảnh PNG"
+
+msgid "Watermark with text"
+msgstr "Đóng dấu bằng văn bản"
+
+msgid "Bena Media Feature Grid"
+msgstr "Lưới tính năng Bena Media"
+
+msgid "Enable"
+msgstr "Bật"
+
+msgid "WebP compression (%)"
+msgstr "Chất lượng nén WebP (%)"
+
+msgid "Prefix"
+msgstr "Tiền tố"
+
+msgid "Example: bena"
+msgstr "Ví dụ: bena"
+
+msgid "Select a transparent PNG image to overlay."
+msgstr "Chọn một hình ảnh PNG trong suốt để đóng dấu."
+
+msgid "Content"
+msgstr "Nội dung"
+
+msgid "Example: © bena.vn"
+msgstr "Ví dụ: © bena.vn"
+
+msgid "Text color"
+msgstr "Màu chữ"
+
+msgid "Size (pt)"
+msgstr "Kích thước (pt)"
+
+msgid "Customize watermark"
+msgstr "Tùy chỉnh đóng dấu bản quyền"
+
+msgid "Watermark scale (%)"
+msgstr "Tỷ lệ đóng dấu (%)"
+
+msgid "Opacity (%)"
+msgstr "Độ mờ (%)"
+
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+msgid "Top - Left"
+msgstr "Trên - Trái"
+
+msgid "Top - Center"
+msgstr "Trên - Giữa"
+
+msgid "Top - Right"
+msgstr "Trên - Phải"
+
+msgid "Center - Left"
+msgstr "Giữa - Trái"
+
+msgid "Center"
+msgstr "Giữa"
+
+msgid "Center - Right"
+msgstr "Giữa - Phải"
+
+msgid "Bottom - Left"
+msgstr "Dưới - Trái"
+
+msgid "Bottom - Center"
+msgstr "Dưới - Giữa"
+
+msgid "Bottom - Right"
+msgstr "Dưới - Phải"
+
+msgid "No watermark selected"
+msgstr "Chưa chọn hình đóng dấu"
+
+msgid "Choose watermark"
+msgstr "Chọn hình đóng dấu"
+
+msgid "Remove watermark"
+msgstr "Xóa hình đóng dấu"
+
+msgid "Other products"
+msgstr "Sản phẩm khác"
+
+msgid "Our other products and services"
+msgstr "Các sản phẩm và dịch vụ khác của chúng tôi"
+
+msgid "Link shortener and cloaking"
+msgstr "Rút gọn và che giấu liên kết"
+
+msgid "Website design"
+msgstr "Thiết kế website"
+
+msgid "Social media services"
+msgstr "Dịch vụ mạng xã hội"
+
+msgid "Popup Affiliate plugin"
+msgstr "Plugin Popup Affiliate"
+
+msgid "Facebook browser blocker plugin"
+msgstr "Plugin chặn trình duyệt Facebook"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Need help? Contact us"
+msgstr "Cần giúp đỡ? Liên hệ với chúng tôi"
+
+msgid "Official website"
+msgstr "Website chính thức"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Support email"
+msgstr "Email hỗ trợ"
+
+msgid "Version information"
+msgstr "Thông tin phiên bản"
+
+msgid "Review your plugin details"
+msgstr "Xem chi tiết plugin của bạn"
+
+msgid "Current version"
+msgstr "Phiên bản hiện tại"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Requires WordPress"
+msgstr "Yêu cầu WordPress"
+
+msgid "5.0+"
+msgstr "5.0+"
+
+msgid "Rating"
+msgstr "Đánh giá"
+
+msgid "Rate on GitHub"
+msgstr "Đánh giá trên GitHub"
+
+msgid "Change log"
+msgstr "Nhật ký thay đổi"
+
+msgid "Track the latest updates"
+msgstr "Theo dõi các bản cập nhật mới nhất"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "Release notes"
+msgstr "Ghi chú phát hành"
+
+msgid "Bena Media Helpers"
+msgstr "Bena Media Helpers"
+
+msgid "Manage watermarks and automate image processing effortlessly."
+msgstr "Quản lý đóng dấu bản quyền và tự động hóa xử lý hình ảnh một cách dễ dàng."
+
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+msgid "Thank you for your support!"
+msgstr "Cảm ơn bạn đã ủng hộ!"
+
+msgid "If this website is helpful, please consider donating to help me maintain and develop the project."
+msgstr "Nếu plugin này hữu ích, hãy ủng hộ để tôi tiếp tục duy trì và phát triển dự án."
+
+msgid "Techcombank Bank"
+msgstr "Ngân hàng Techcombank"
+
+msgid "Account No:"
+msgstr "Số tài khoản:"
+
+msgid "Account Name:"
+msgstr "Tên tài khoản:"
+
+msgid "Description:"
+msgstr "Nội dung chuyển khoản:"
+
+msgid "Donate with PayPal"
+msgstr "Ủng hộ qua PayPal"
+
+msgid "Copied!"
+msgstr "Đã sao chép!"
+
+msgid "Select watermark image"
+msgstr "Chọn hình ảnh đóng dấu"
+
+msgid "Use this watermark"
+msgstr "Sử dụng hình đóng dấu này"
