@@ -1,5 +1,6 @@
 # Bena Media Helpers
 (Tiếng Việt ở bên dưới)
+![Banner](https://d2eioyamun8mp1.cloudfront.net/images/1762874028788_IqFim93wiS.png)
 ## Overview (English)
 
 Bena Media Helpers streamlines common media workflows on WordPress websites. The plugin can automatically pull remote images into your media library, remove attachments when posts are deleted, convert image uploads to WebP, and apply either image-based or text watermarks with live previews and fine-tuning options.
