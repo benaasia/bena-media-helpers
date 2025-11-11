@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 class Bena_Media_Helpers {
     const OPTION_KEY = 'bena_media_helpers_options';
     const PAGE_SLUG  = 'bena-media-helpers';
-    const VERSION    = '1.2.0';
+    const VERSION    = '1.3.0';
 
     private $bena_options = [];
 
